@@ -15,7 +15,7 @@ app.post('/add-product', (req, res) => {
 
   let products = [];
   try {
-    const data = fs.readFileSync('products4.json');
+    const data = fs.readFileSync('allproducts.json');
     products = JSON.parse(data);
   } catch (err) {
     console.error("Error reading products file:", err);
@@ -30,7 +30,7 @@ app.post('/add-product', (req, res) => {
     category
   });
 
-  fs.writeFile('products4.json', JSON.stringify(products, null, 2), err => {
+  fs.writeFile('allproducts.json', JSON.stringify(products, null, 2), err => {
     if (err) {
       console.error("Error writing products file:", err);
       res.status(500).send("Error adding product");
@@ -46,8 +46,8 @@ app.post('/add-product', (req, res) => {
 app.get('/api/tshirt', (req, res) => {
     fs.readFile('tshirt.json', (err, data) => {
       if (err) {
-        console.error("Error reading products1 file:", err);
-        res.status(500).send("Error fetching products1");
+        console.error("Error reading tshirt file:", err);
+        res.status(500).send("Error fetching tshirt");
       } else {
         res.json(JSON.parse(data));
       }
@@ -57,8 +57,8 @@ app.get('/api/tshirt', (req, res) => {
   app.get('/api/shoes', (req, res) => {
     fs.readFile('shoes.json', (err, data) => {
       if (err) {
-        console.error("Error reading products2 file:", err);
-        res.status(500).send("Error fetching products2");
+        console.error("Error reading shoes file:", err);
+        res.status(500).send("Error fetching shoes");
       } else {
         res.json(JSON.parse(data));
       }
@@ -68,8 +68,8 @@ app.get('/api/tshirt', (req, res) => {
   app.get('/api/trousers', (req, res) => {
     fs.readFile('trousers.json', (err, data) => {
       if (err) {
-        console.error("Error reading products3 file:", err);
-        res.status(500).send("Error fetching products3");
+        console.error("Error reading trousers file:", err);
+        res.status(500).send("Error fetching trousers");
       } else {
         res.json(JSON.parse(data));
       }
@@ -79,8 +79,19 @@ app.get('/api/tshirt', (req, res) => {
   app.get('/api/accessories', (req, res) => {
     fs.readFile('accessories.json', (err, data) => {
       if (err) {
-        console.error("Error reading products4 file:", err);
-        res.status(500).send("Error fetching products4");
+        console.error("Error reading accessories file:", err);
+        res.status(500).send("Error fetching accessories");
+      } else {
+        res.json(JSON.parse(data));
+      }
+    });
+  });
+
+  app.get('/api/allproducts', (req, res) => {
+    fs.readFile('allproducts.json', (err, data) => {
+      if (err) {
+        console.error("Error reading allproducts file:", err);
+        res.status(500).send("Error fetching allproducts");
       } else {
         res.json(JSON.parse(data));
       }

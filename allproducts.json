@@ -1,0 +1,322 @@
+[
+    {
+        "productId": "1",
+        "title": "Nike Air Force 1 '07",
+        "description": "The radiance lives on in the Nike Air Force 1 '07, the basketball original that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+        "price": "7495",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "2",
+        "title": "Nike Air Dunk Jumbo",
+        "description": "Your favourite look goes big and bold. Extra-large branding exaggerates the classic look, while the Air strobel unit puts cushioning right beneath your feet. And if that's not enough, the \"inside-out\" tongue construction and new lacing system bring a new look that's customisable. How will you rock yours?",
+        "price": "11495",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1773a565-253c-4f32-bd9e-9934e60ced9a/air-dunk-jumbo-shoes-wc8JrQ.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "3",
+        "title": "Nike Air Max Alpha Trainer 5",
+        "description": "Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. The Max Air cushioning offers comfortable stability for lifting whether it's a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.",
+        "price": "7495",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c95a8a1b-8e71-487d-9407-a9b181fc7caa/air-max-alpha-trainer-5-workout-shoes-x8Jzj6.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "4",
+        "title": "Nike Invincible 3",
+        "description": "With maximum cushioning to support every mile, the Invincible 3 has our highest level of comfort underfoot. Its plush and bouncy ZoomX foam helps you stay stable and fresh. In other words—it's going to feel good all day, whatever you're doing. It has everything you need so you can propel down your preferred path and come back for your next run feeling ready and reinvigorated.",
+        "price": "16995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/40e9a096-e6cc-4c39-aec8-46a330f80681/invincible-3-road-running-shoes-jkhK7v.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "5",
+        "title": "Nike Zoom Fly 5",
+        "description": "Bridge the gap between your weekend training run and race day in a durable design that can be deployed not just at the starting line of your favourite race, but in the days and months after your conquest. It offers comfort and reliability but with a propulsive sensation that'll help you feel fast and fresh. That kind of versatility is uncommon in the running arena. But who said you can't have it all?",
+        "price": "14995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9d563551-a673-4b53-b04b-a6e7d38edaa5/zoom-fly-5-road-running-shoes-lkx7Zp.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "6",
+        "title": "Nike Invincible 3",
+        "description": "With maximum cushioning to support every mile, the Invincible 3 has our highest level of comfort underfoot. Its plush and bouncy ZoomX foam helps you stay stable and fresh. In other words—it's going to feel good all day, whatever you're doing. It has everything you need so you can propel down your preferred path and come back for your next run feeling ready and reinvigorated.",
+        "price": "16995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9dcdc903-2860-4efa-81bd-ffffeb788e47/invincible-3-road-running-shoes-QWRmLj.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "7",
+        "title": "Nike Pegasus Trail 4 GORE-TEX By You",
+        "description": "Make sure your Peg Trail 4 GORE-TEX By You gets the necessary drip it deserves, so you can shimmer from the trailhead to the top. Bright, punchy colours pack a visual pop while unique styling selections, like a splattered midsole and hazard-stripe logo, will turn heads, whether you're walking the dog in the dark rain or racing up a watery path. Responsive Nike React foam and waterproof GORE-TEX help you take your wet run from the road to the trail without breaking your stride.",
+        "price": "17495",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/28d43163-2879-40bb-985b-de101007c657/custom-pegasus-trail-gtx-by-you.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "8",
+        "title": "Nike Infinity Ace Next Nature",
+        "description": "Your game and your swing can't be pigeonholed. The all-new Infinity Ace supports your individuality, the inner independence that allows you to go for the green when the book says go for a lay-up or hit a drive down a narrow fairway when friendlier approaches would suit. With super-soft cushioning around sensitive areas like the ankle and midfoot, it has you ready to play 18.",
+        "price": "8695",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/181f884e-a39a-42a9-8946-de6c0c32b043/infinity-ace-next-nature-golf-shoes-pbDtF6.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "9",
+        "title": "Nike Air More Uptempo '96",
+        "description": "It's all about the A-I-R. The Air More Uptempo '96 refreshes an original that has reigned supreme for more than 20 years. With a design inspired by high-flying basketball style and '90s graffiti art, these kicks can't help but turn heads off court.",
+        "price": "16995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/345f03c2-3f8f-4bee-a79d-9edcd10220e0/air-more-uptempo-96-shoes-x7J3ls.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "10",
+        "title": "Nike Air Max Dn",
+        "description": "Say hello to the next generation of Air technology. The Air Max Dn features our Dynamic Air unit system of dual-pressure tubes, creating a reactive sensation with every step. This results in a futuristic design that's comfortable enough to wear from day to night. Go ahead—Feel the Unreal.",
+        "price": "13995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6b1ebdb3-9043-492d-94bf-8ab78dccafb9/air-max-dn-shoes-FtLNfm.png",
+        "category": "shoes"
+    },
+    {
+        "productId": "11",
+        "title": "Men's Dri-FIT Tight Short-Sleeve Fitness Top",
+        "description": "Obsidian/White",
+        "price": "1495",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/9d73f15a-44f2-4463-92d9-029c670be01e/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "12",
+        "title": "Men's Oversized T-Shirt",
+        "description": "White/Black",
+        "price": "2195",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/9b7818b3-2bad-47f6-94af-040e1b9ab51b/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "13",
+        "title": "Men's Short-Sleeve T-Shirt",
+        "description": "White/Black",
+        "price": "1895",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/f9329798-6621-4f2a-931d-aedef5768249/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "14",
+        "title": "Men's Tennis Polo",
+        "description": "NikeCourt Dri-FIT",
+        "price": "2295",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f0931815-6947-4577-89ed-4314eba7ccaf/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "15",
+        "title": "Men's T-Shirt",
+        "description": "Jordan Flight MVP 85",
+        "price": "3995",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/9a14a392-048e-493a-b5b8-fc987e408b7e/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "16",
+        "title": "Men's Dri-FIT Short-Sleeve Top",
+        "description": "Nike Sportswear Tech Pack",
+        "price": "2495",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/d2d5bdf9-459d-4abe-8da7-07af7741bad0/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "17",
+        "title": "Men's Short-Sleeve Fitness Top",
+        "description": "Nike Dri-FIT UV Hyverse",
+        "price": "1995",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1b91e4ce-4648-48a7-a31d-19d419ac87e6/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "18",
+        "title": "Short-Sleeve T-Shirt",
+        "description": "Nike ISPA",
+        "price": "2295",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/716ffc20-0815-4859-8a72-131da72408e1/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "19",
+        "title": "Men's Nike NBA Crew-Neck T-Shirt",
+        "description": "Team 31 All-Star Weekend Essential",
+        "price": "4095",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/f81f46ef-b5fc-4eaa-8c70-fb558168add7/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "20",
+        "title": "Men's Fleece Full-Zip Fitness Hoodie",
+        "description": "Nike Dri-FIT",
+        "price": "4395",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7e77b952-3a96-4940-97c5-ce74e5ef07ac/image.jpg",
+        "category": "tshirt"
+    },
+    {
+        "productId": "21",
+        "title": "Nike Dri-FIT Running Division Phenom",
+        "description": "Men's Slim-Fit Running Trousers",
+        "price": "5495",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/5ebc3ade-0e5a-4e20-8c5d-69115f2e6c96/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "22",
+        "title": "Nike Challenger Track Club",
+        "description": "Men's Dri-FIT Running Trousers",
+        "price": "4095",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/986df2e7-9db5-4499-9423-d8fcf8c2fa6b/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "23",
+        "title": "Jordan Sport Jam",
+        "description": "Men's Warm-Up Trousers",
+        "price": "4495",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/48ee801b-b5c1-4c4a-ba1a-0faaa10251a9/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "24",
+        "title": "Nike SB",
+        "description": "Men's Double-Knee Skate Trousers",
+        "price": "3295",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/5e48e432-9db2-4f28-a556-1e655435b445/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "25",
+        "title": "Men's Tapered Training Trousers",
+        "description": "Nike Dri-FIT",
+        "price": "4695",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c33131c-5959-4113-a4df-e76513c0f73d/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "26",
+        "title": "Men's Fleece Trousers",
+        "description": "Jordan MVP",
+        "price": "10995",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/385f24a9-f942-46f7-a1c9-cf6387a638b5/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "27",
+        "title": "Men's Fleece Trousers",
+        "description": "Nike Tech Fleece Re-imagined",
+        "price": "6495",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/c79160d3-8f42-4459-ba8d-7fc8dd447a5a/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "28",
+        "title": "Men's Slim Golf Trousers",
+        "description": "Nike Tour Repel Flex",
+        "price": "3795",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3365e8cf-9a9d-43fd-8713-cc697806b878/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "29",
+        "title": "Men's Dri-FIT ADV Running Tights",
+        "description": "Nike Running Division",
+        "price": "2395",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/2b540049-6571-412b-9aee-7eb6cab8cb01/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "30",
+        "title": "Men's Dri-FIT Brief-Lined Running 1/2-Length Tights",
+        "description": "Nike Fast",
+        "price": "3995",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/962633ad-542c-4550-826c-5fdc35ba2d5f/image.jpg",
+        "category": "trousers"
+    },
+    {
+        "productId": "31",
+        "title": "Nike Hoops Elite Backpack",
+        "description": "Take your hoops game to the next level. Plenty of storage helps keep your gear organised, from its spacious main compartment to the zip pockets that store your small essentials. What makes it a slam dunk? A chest strap combined with air units for cushioning on the shoulder straps that provide extra comfort, so it's here to game all day.",
+        "price": "5295",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/36242c55-ffbe-4977-b028-022a26774ff0/hoops-elite-backpack-Nw6wcq.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "32",
+        "title": "Structured Round Bill Cap",
+        "description": "Play with the elite with this Nike Pro Cap. It offers a max-depth design that you can confidently wear from course to court and just about anywhere else. The design features sweat-wicking woven fabric with a round, flat bill. A flexible snapback makes it easy to adjust for what's right for you.",
+        "price": "1595",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/5c3c11d7-8651-4946-926b-2ad76e5d3cbc/pro-structured-round-bill-cap-n1qDqx.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "33",
+        "title": "Nike Heritage Cross-Body Bag",
+        "description": "An alternative to the classic hip pack style, the Nike Heritage Cross-Body Bag offers hands-free storage in a design you wear across the chest. A Futura logo print and easy-to-adjust strap make it a smart pick for everyday use. The main storage pocket and accessories pocket help keep your gear organised. This product is made from at least 65% recycled polyester.",
+        "price": "1395",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/58cda43a-c817-4afe-a5a9-4a8070b42704/heritage-cross-body-bag-H57GpC.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "34",
+        "title": "Nike Sportswear RPM Backpack",
+        "description": "Meet the backpack made for the person who needs to carry it all. Whether it's on a sunny-day hike or hiking around campus, you have plenty of space to stay organised while also staying comfortable. Multiple zip pockets complement the spacious main compartment, while both the back and straps are padded for long days on your feet.",
+        "price": "5795",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/797b63da-2a31-4270-b4cc-4039342d6832/sportswear-rpm-backpack-vGq1rL.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "35",
+        "title": "Nike Brasilia 9.5 Training Gymsack",
+        "description": "The Nike Brasilia Gymsack has a minimal, lightweight design with an open top so you can throw in your workout gear and go. Shoulder straps double as a drawcord to secure your load. This product is made from at least 65% recycled polyester fibres.",
+        "price": "995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fcca89c4-15ed-405e-96d3-07952c49e846/brasilia-9-5-training-gymsack-zrVLw5.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "36",
+        "title": "Reflective Design Cap",
+        "description": "Warm-up to cool-down, and everywhere in between, get started with the Nike Fly Cap. The unstructured low-depth design is made from highly breathable fabric with advanced sweat-wicking technology, so keeping cool and fresh is never a problem. The back strap is also easy to adjust, so you can focus on achieving your fitness goals.",
+        "price": "1695",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33ede104-9c42-4718-87ae-d8d99da8340c/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "37",
+        "title": "Cushioned No-Show Socks",
+        "description": "Once purely the subject of myths, this is the sock other socks dream about being. Inspired by the unicorns of sport—dynamic, versatile players that seemingly do it all—the Nike Unicorn is for anyone looking to take their game to a fabled level. This is our first sock to use our advanced sweat-wicking tech to help feet stay dry. Plus, the Unicorn 3D Spacer Knit adds cushioning and support where you need it. The Unicorn is unlike any pair you've seen before.",
+        "price": "1395",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cffe10e1-8f36-43a3-9d8d-e84631348531/unicorn-dri-fit-adv-cushioned-no-show-socks-L15N3n.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "38",
+        "title": "Nike Air Backpack",
+        "description": "Keep your gear in check with a backpack inspired by the iconic Air Max 95. With convenient organisation that includes a laptop sleeve and water bottle pouch, this backpack keeps up with you. Padded adjustable straps keep you comfortable whether you're headed to a kickabout or hanging out with friends.",
+        "price": "2795",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9cee4555-24ce-4d83-aa86-e0daa6f761e8/air-backpack-85nxKL.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "39",
+        "title": "Nike Dri-FIT Ace Swoosh Visor",
+        "description": "Keep the sun and sweat out of your eyes with our low-depth Nike Ace visor. This unstructured visor with a curved bill features stretchy fabric that will keep you cool and fresh during warm days on the court and the course.",
+        "price": "995",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/5f7e58f5-de0d-45ab-8dc6-59e79b53c498/dri-fit-ace-swoosh-visor-Qr323h.png",
+        "category": "accessories"
+    },
+    {
+        "productId": "40",
+        "title": "Nike Brasilia 9.5 Training Backpack ",
+        "description": "Grab your gear and get going with the Nike Brasilia Backpack. It has plenty of pockets to help you stay organised including a sleeve to fit your laptop, side mesh pockets for water bottles and a zip pocket on the inside to keep small items secure. This product is made from at least 50% recycled polyester fibres.",
+        "price": "2795",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/41f945ed-d43b-455a-b2f6-3a2890d355c3/brasilia-9-5-training-backpack-DQvDHm.png",
+        "category": "accessories"
+    }
+]
