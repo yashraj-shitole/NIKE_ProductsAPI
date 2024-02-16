@@ -1,0 +1,82 @@
+[
+  {
+    "productId": "1",
+    "title": "Nike Dri-FIT Running Division Phenom",
+    "description": "Men's Slim-Fit Running Trousers",
+    "price": "5495",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/5ebc3ade-0e5a-4e20-8c5d-69115f2e6c96/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "2",
+    "title": "Nike Challenger Track Club",
+    "description": "Men's Dri-FIT Running Trousers",
+    "price": "4095",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/986df2e7-9db5-4499-9423-d8fcf8c2fa6b/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "3",
+    "title": "Jordan Sport Jam",
+    "description": "Men's Warm-Up Trousers",
+    "price": "4495",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/48ee801b-b5c1-4c4a-ba1a-0faaa10251a9/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "4",
+    "title": "Nike SB",
+    "description": "Men's Double-Knee Skate Trousers",
+    "price": "3295",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/5e48e432-9db2-4f28-a556-1e655435b445/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "5",
+    "title": "Men's Tapered Training Trousers",
+    "description": "Nike Dri-FIT",
+    "price": "4695",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c33131c-5959-4113-a4df-e76513c0f73d/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "6",
+    "title": "Men's Fleece Trousers",
+    "description": "Jordan MVP",
+    "price": "10995",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/385f24a9-f942-46f7-a1c9-cf6387a638b5/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "7",
+    "title": "Men's Fleece Trousers",
+    "description": "Nike Tech Fleece Re-imagined",
+    "price": "6495",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/c79160d3-8f42-4459-ba8d-7fc8dd447a5a/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "8",
+    "title": "Men's Slim Golf Trousers",
+    "description": "Nike Tour Repel Flex",
+    "price": "3795",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3365e8cf-9a9d-43fd-8713-cc697806b878/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "9",
+    "title": "Men's Dri-FIT ADV Running Tights",
+    "description": "Nike Running Division",
+    "price": "2395",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/2b540049-6571-412b-9aee-7eb6cab8cb01/image.jpg",
+    "category": "trousers"
+  },
+  {
+    "productId": "10",
+    "title": "Men's Dri-FIT Brief-Lined Running 1/2-Length Tights",
+    "description": "Nike Fast",
+    "price": "3995",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/962633ad-542c-4550-826c-5fdc35ba2d5f/image.jpg",
+    "category": "trousers"
+  }
+]

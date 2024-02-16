@@ -1,0 +1,82 @@
+[
+  {
+    "productId": "1",
+    "title": "Nike Hoops Elite Backpack",
+    "description": "Take your hoops game to the next level. Plenty of storage helps keep your gear organised, from its spacious main compartment to the zip pockets that store your small essentials. What makes it a slam dunk? A chest strap combined with air units for cushioning on the shoulder straps that provide extra comfort, so it's here to game all day.",
+    "price": "5295",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/36242c55-ffbe-4977-b028-022a26774ff0/hoops-elite-backpack-Nw6wcq.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "2",
+    "title": "Structured Round Bill Cap",
+    "description": "Play with the elite with this Nike Pro Cap. It offers a max-depth design that you can confidently wear from course to court and just about anywhere else. The design features sweat-wicking woven fabric with a round, flat bill. A flexible snapback makes it easy to adjust for what's right for you.",
+    "price": "1595",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/5c3c11d7-8651-4946-926b-2ad76e5d3cbc/pro-structured-round-bill-cap-n1qDqx.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "3",
+    "title": "Nike Heritage Cross-Body Bag",
+    "description": "An alternative to the classic hip pack style, the Nike Heritage Cross-Body Bag offers hands-free storage in a design you wear across the chest. A Futura logo print and easy-to-adjust strap make it a smart pick for everyday use. The main storage pocket and accessories pocket help keep your gear organised. This product is made from at least 65% recycled polyester.",
+    "price": "1395",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/58cda43a-c817-4afe-a5a9-4a8070b42704/heritage-cross-body-bag-H57GpC.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "4",
+    "title": "Nike Sportswear RPM Backpack",
+    "description": "Meet the backpack made for the person who needs to carry it all. Whether it's on a sunny-day hike or hiking around campus, you have plenty of space to stay organised while also staying comfortable. Multiple zip pockets complement the spacious main compartment, while both the back and straps are padded for long days on your feet.",
+    "price": "5795",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/797b63da-2a31-4270-b4cc-4039342d6832/sportswear-rpm-backpack-vGq1rL.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "5",
+    "title": "Nike Brasilia 9.5 Training Gymsack",
+    "description": "The Nike Brasilia Gymsack has a minimal, lightweight design with an open top so you can throw in your workout gear and go. Shoulder straps double as a drawcord to secure your load. This product is made from at least 65% recycled polyester fibres.",
+    "price": "995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fcca89c4-15ed-405e-96d3-07952c49e846/brasilia-9-5-training-gymsack-zrVLw5.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "6",
+    "title": "Reflective Design Cap",
+    "description": "Warm-up to cool-down, and everywhere in between, get started with the Nike Fly Cap. The unstructured low-depth design is made from highly breathable fabric with advanced sweat-wicking technology, so keeping cool and fresh is never a problem. The back strap is also easy to adjust, so you can focus on achieving your fitness goals.",
+    "price": "1695",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/33ede104-9c42-4718-87ae-d8d99da8340c/dri-fit-adv-fly-unstructured-reflective-design-cap-LrQ9fF.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "7",
+    "title": "Cushioned No-Show Socks",
+    "description": "Once purely the subject of myths, this is the sock other socks dream about being. Inspired by the unicorns of sport—dynamic, versatile players that seemingly do it all—the Nike Unicorn is for anyone looking to take their game to a fabled level. This is our first sock to use our advanced sweat-wicking tech to help feet stay dry. Plus, the Unicorn 3D Spacer Knit adds cushioning and support where you need it. The Unicorn is unlike any pair you've seen before.",
+    "price": "1395",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cffe10e1-8f36-43a3-9d8d-e84631348531/unicorn-dri-fit-adv-cushioned-no-show-socks-L15N3n.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "8",
+    "title": "Nike Air Backpack",
+    "description": "Keep your gear in check with a backpack inspired by the iconic Air Max 95. With convenient organisation that includes a laptop sleeve and water bottle pouch, this backpack keeps up with you. Padded adjustable straps keep you comfortable whether you're headed to a kickabout or hanging out with friends.",
+    "price": "2795",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9cee4555-24ce-4d83-aa86-e0daa6f761e8/air-backpack-85nxKL.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "9",
+    "title": "Nike Dri-FIT Ace Swoosh Visor",
+    "description": "Keep the sun and sweat out of your eyes with our low-depth Nike Ace visor. This unstructured visor with a curved bill features stretchy fabric that will keep you cool and fresh during warm days on the court and the course.",
+    "price": "995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/5f7e58f5-de0d-45ab-8dc6-59e79b53c498/dri-fit-ace-swoosh-visor-Qr323h.png",
+    "category": "accessories"
+  },
+  {
+    "productId": "10",
+    "title": "Nike Brasilia 9.5 Training Backpack ",
+    "description": "Grab your gear and get going with the Nike Brasilia Backpack. It has plenty of pockets to help you stay organised including a sleeve to fit your laptop, side mesh pockets for water bottles and a zip pocket on the inside to keep small items secure. This product is made from at least 50% recycled polyester fibres.",
+    "price": "2795",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/41f945ed-d43b-455a-b2f6-3a2890d355c3/brasilia-9-5-training-backpack-DQvDHm.png",
+    "category": "accessories"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "productId": "1",
+    "title": "Nike Air Force 1 '07",
+    "description": "The radiance lives on in the Nike Air Force 1 '07, the basketball original that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+    "price": "7495",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoes-WrLlWX.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "2",
+    "title": "Nike Air Dunk Jumbo",
+    "description": "Your favourite look goes big and bold. Extra-large branding exaggerates the classic look, while the Air strobel unit puts cushioning right beneath your feet. And if that's not enough, the \"inside-out\" tongue construction and new lacing system bring a new look that's customisable. How will you rock yours?",
+    "price": "11495",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1773a565-253c-4f32-bd9e-9934e60ced9a/air-dunk-jumbo-shoes-wc8JrQ.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "3",
+    "title": "Nike Air Max Alpha Trainer 5",
+    "description": "Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. The Max Air cushioning offers comfortable stability for lifting whether it's a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.",
+    "price": "7495",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c95a8a1b-8e71-487d-9407-a9b181fc7caa/air-max-alpha-trainer-5-workout-shoes-x8Jzj6.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "4",
+    "title": "Nike Invincible 3",
+    "description": "With maximum cushioning to support every mile, the Invincible 3 has our highest level of comfort underfoot. Its plush and bouncy ZoomX foam helps you stay stable and fresh. In other words—it's going to feel good all day, whatever you're doing. It has everything you need so you can propel down your preferred path and come back for your next run feeling ready and reinvigorated.",
+    "price": "16995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/40e9a096-e6cc-4c39-aec8-46a330f80681/invincible-3-road-running-shoes-jkhK7v.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "5",
+    "title": "Nike Zoom Fly 5",
+    "description": "Bridge the gap between your weekend training run and race day in a durable design that can be deployed not just at the starting line of your favourite race, but in the days and months after your conquest. It offers comfort and reliability but with a propulsive sensation that'll help you feel fast and fresh. That kind of versatility is uncommon in the running arena. But who said you can't have it all?",
+    "price": "14995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9d563551-a673-4b53-b04b-a6e7d38edaa5/zoom-fly-5-road-running-shoes-lkx7Zp.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "6",
+    "title": "Nike Invincible 3",
+    "description": "With maximum cushioning to support every mile, the Invincible 3 has our highest level of comfort underfoot. Its plush and bouncy ZoomX foam helps you stay stable and fresh. In other words—it's going to feel good all day, whatever you're doing. It has everything you need so you can propel down your preferred path and come back for your next run feeling ready and reinvigorated.",
+    "price": "16995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9dcdc903-2860-4efa-81bd-ffffeb788e47/invincible-3-road-running-shoes-QWRmLj.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "7",
+    "title": "Nike Pegasus Trail 4 GORE-TEX By You",
+    "description": "Make sure your Peg Trail 4 GORE-TEX By You gets the necessary drip it deserves, so you can shimmer from the trailhead to the top. Bright, punchy colours pack a visual pop while unique styling selections, like a splattered midsole and hazard-stripe logo, will turn heads, whether you're walking the dog in the dark rain or racing up a watery path. Responsive Nike React foam and waterproof GORE-TEX help you take your wet run from the road to the trail without breaking your stride.",
+    "price": "17495",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/28d43163-2879-40bb-985b-de101007c657/custom-pegasus-trail-gtx-by-you.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "8",
+    "title": "Nike Infinity Ace Next Nature",
+    "description": "Your game and your swing can't be pigeonholed. The all-new Infinity Ace supports your individuality, the inner independence that allows you to go for the green when the book says go for a lay-up or hit a drive down a narrow fairway when friendlier approaches would suit. With super-soft cushioning around sensitive areas like the ankle and midfoot, it has you ready to play 18.",
+    "price": "8695",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/181f884e-a39a-42a9-8946-de6c0c32b043/infinity-ace-next-nature-golf-shoes-pbDtF6.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "9",
+    "title": "Nike Air More Uptempo '96",
+    "description": "It's all about the A-I-R. The Air More Uptempo '96 refreshes an original that has reigned supreme for more than 20 years. With a design inspired by high-flying basketball style and '90s graffiti art, these kicks can't help but turn heads off court.",
+    "price": "16995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/345f03c2-3f8f-4bee-a79d-9edcd10220e0/air-more-uptempo-96-shoes-x7J3ls.png",
+    "category": "shoes"
+  },
+  {
+    "productId": "10",
+    "title": "Nike Air Max Dn",
+    "description": "Say hello to the next generation of Air technology. The Air Max Dn features our Dynamic Air unit system of dual-pressure tubes, creating a reactive sensation with every step. This results in a futuristic design that's comfortable enough to wear from day to night. Go ahead—Feel the Unreal.",
+    "price": "13995",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6b1ebdb3-9043-492d-94bf-8ab78dccafb9/air-max-dn-shoes-FtLNfm.png",
+    "category": "shoes"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "productId": "1",
+    "title": "Men's Dri-FIT Tight Short-Sleeve Fitness Top",
+    "description": "Obsidian/White",
+    "price": "1495",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/9d73f15a-44f2-4463-92d9-029c670be01e/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "2",
+    "title": "Men's Oversized T-Shirt",
+    "description": "White/Black",
+    "price": "2195",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/9b7818b3-2bad-47f6-94af-040e1b9ab51b/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "3",
+    "title": "Men's Short-Sleeve T-Shirt",
+    "description": "White/Black",
+    "price": "1895",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/f9329798-6621-4f2a-931d-aedef5768249/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "4",
+    "title": "Men's Tennis Polo",
+    "description": "NikeCourt Dri-FIT",
+    "price": "2295",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f0931815-6947-4577-89ed-4314eba7ccaf/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "5",
+    "title": "Men's T-Shirt",
+    "description": "Jordan Flight MVP 85",
+    "price": "3995",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/9a14a392-048e-493a-b5b8-fc987e408b7e/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "6",
+    "title": "Men's Dri-FIT Short-Sleeve Top",
+    "description": "Nike Sportswear Tech Pack",
+    "price": "2495",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/d2d5bdf9-459d-4abe-8da7-07af7741bad0/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "7",
+    "title": "Men's Short-Sleeve Fitness Top",
+    "description": "Nike Dri-FIT UV Hyverse",
+    "price": "1995",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1b91e4ce-4648-48a7-a31d-19d419ac87e6/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "7",
+    "title": "Men's Oversized T-shirt",
+    "description": "Jordan Flight Essentials",
+    "price": "2795",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/ddd628ae-7802-428f-b77f-5179b05449f4/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "8",
+    "title": "Short-Sleeve T-Shirt",
+    "description": "Nike ISPA",
+    "price": "2295",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/716ffc20-0815-4859-8a72-131da72408e1/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "9",
+    "title": "Men's Nike NBA Crew-Neck T-Shirt",
+    "description": "Team 31 All-Star Weekend Essential",
+    "price": "4095",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/f81f46ef-b5fc-4eaa-8c70-fb558168add7/image.jpg",
+    "category": "tshirt"
+  },
+  {
+    "productId": "10",
+    "title": "Men's Fleece Full-Zip Fitness Hoodie",
+    "description": "Nike Dri-FIT",
+    "price": "4395",
+    "imageUrl": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7e77b952-3a96-4940-97c5-ce74e5ef07ac/image.jpg",
+    "category": "tshirt"
+  }
+
+]
